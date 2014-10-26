@@ -1,0 +1,101 @@
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.g.i.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.g.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.g.i.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.g.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.xaml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\App.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\MainPage.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.xr.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.exe
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.pdb
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\resources.pri
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\AppxManifest.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.build.appxrecipe
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.xaml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\LLS-ListView-RT81.exe
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\LLS-ListView-RT81.pdb
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\priconfig.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\priconfig.xml.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\layout.resfiles
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\layout.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\resources.resfiles
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\resources.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\pri.resfiles
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\pri.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\qualifiers.txt
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\ProjectArchitectures.txt
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\App.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\MainPage.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.xr.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.exe
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.pdb
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\resources.pri
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\AppxManifest.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.build.appxrecipe
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.g.i.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.g.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.g.i.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.g.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.xaml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.xaml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.xbf
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\LLS-ListView-RT81.exe
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\LLS-ListView-RT81.pdb
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\priconfig.xml
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\priconfig.xml.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\layout.resfiles
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\layout.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\resources.resfiles
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\resources.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\pri.resfiles
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\pri.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\qualifiers.txt
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Glenn\SkyDrive\MVP - demo\20141018 - Demo - MADN\05. LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\ProjectArchitectures.txt
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\App.xbf
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\MainPage.xbf
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.xr.xml
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.exe
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.pdb
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\resources.pri
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\AppxManifest.xml
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\LLS-ListView-RT81.build.appxrecipe
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.g.i.cs
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.g.cs
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.g.i.cs
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.g.cs
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\XamlTypeInfo.g.cs
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.xaml
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\App.xbf
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\XamlSaveStateFile.xml
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.xaml
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage.xbf
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\LLS-ListView-RT81.exe
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\LLS-ListView-RT81.pdb
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\priconfig.xml
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\priconfig.xml.intermediate
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\layout.resfiles
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\layout.resfiles.intermediate
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\resources.resfiles
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\resources.resfiles.intermediate
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\pri.resfiles
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\pri.resfiles.intermediate
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\qualifiers.txt
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\qualifiers.txt.intermediate
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\ProjectArchitectures.txt
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\bin\Debug\MainPage2.xbf
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage2.g.i.cs
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage2.g.cs
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage2.xaml
+C:\Projects\Temp\LLS-ListView-RT81\LLS-ListView-RT81\obj\Debug\MainPage2.xbf
